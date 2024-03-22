@@ -10,4 +10,4 @@ To analyze the retail store dataset according to Customer Behaviour Analysis , A
 5. Sales and Quantity Performance by Segment
 6. Total Orders by Region, City and State
 7. Main Category of Product Ordered
-10. Top 10 Products Ordered in Superstores
+8. Top 10 Products Ordered in Superstores
